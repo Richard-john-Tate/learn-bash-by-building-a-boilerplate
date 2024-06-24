@@ -229,3 +229,11 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+__vsc_prompt_cmd_original
+find -name background.jpg
+find -name assets/images
+find -name assets
+find images
+find client/assets/images
+find -name client/assets/images
+find -name images
