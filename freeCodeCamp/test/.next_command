@@ -145,3 +145,5 @@ cd ..
 ls --color=auto
 rm background.jpg
 ls --color=auto
+clear
+cp header.png images
