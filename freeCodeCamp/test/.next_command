@@ -300,3 +300,5 @@ find ./website-boilerplate
 clear
 echo goodbye terminal
 exit
+ls --color=auto
+pwd
