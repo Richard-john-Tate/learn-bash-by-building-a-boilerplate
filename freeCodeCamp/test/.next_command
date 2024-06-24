@@ -142,3 +142,4 @@ ls --color=auto
 ls --color=auto
 c d..
 cd ..
+ls --color=auto
