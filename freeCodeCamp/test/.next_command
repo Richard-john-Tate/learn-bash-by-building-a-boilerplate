@@ -206,3 +206,19 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ../..
+pwd
+cd ..
+cd client
+pwd
+ls --color=auto
+cd assets
+cd ../../..
+pwd
+cd freeCodecamp/website
+cd freeCodeCamp/website
+cd /freeCodeCamp/website
+ls --color=auto
+cd website/client/assets
+cd images
+cd ../../..
