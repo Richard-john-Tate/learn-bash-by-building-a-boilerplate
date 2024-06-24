@@ -76,3 +76,19 @@ clear
 ls --color=auto
 cd src
 pwd
+cd /
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd has
+ls --color=auto
+cd src
+pwd
+lss
+ls --color=auto
