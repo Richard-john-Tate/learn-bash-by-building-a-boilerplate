@@ -201,3 +201,5 @@ find -name src
 find .
 cd client
 mkdir assets
+cd asets
+cd assets
