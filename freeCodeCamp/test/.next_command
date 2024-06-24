@@ -99,3 +99,5 @@ pwd
 cd ..
 pwd
 cd /workspace/project
+clear
+ls --color=auto
