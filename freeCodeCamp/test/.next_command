@@ -268,3 +268,7 @@ find .
 rm --help
 rm -r ./fonts
 ls --color=auto
+npm init
+ls --color=auto
+rm ./package.json
+touch ./package.json
