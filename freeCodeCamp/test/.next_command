@@ -222,3 +222,5 @@ ls --color=auto
 cd website/client/assets
 cd images
 cd ../../..
+clear
+cd images
