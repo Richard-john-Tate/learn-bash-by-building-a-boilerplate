@@ -224,3 +224,4 @@ cd images
 cd ../../..
 clear
 cd images
+ls --color=auto
