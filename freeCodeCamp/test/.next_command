@@ -266,3 +266,4 @@ touch ./client/assets/fonts/lato-light.ttf
 clear
 find .
 rm --help
+rm -r ./fonts
