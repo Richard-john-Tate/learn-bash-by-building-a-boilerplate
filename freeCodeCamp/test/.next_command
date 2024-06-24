@@ -152,3 +152,4 @@ ls --color=auto
 cp footer.jpeg images
 __vsc_prompt_cmd_original
 cd images
+ls --color=auto
