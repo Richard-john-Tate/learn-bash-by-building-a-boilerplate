@@ -174,3 +174,5 @@ mkdir fonts
 __vsc_prompt_cmd_original
 clear
 ls --color=auto
+mv roboto.woff /fonts
+mv roboto.woff fonts
