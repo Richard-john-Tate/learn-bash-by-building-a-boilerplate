@@ -171,3 +171,6 @@ mv mrnlo.font menlo.otf
 mv menlo.font menlo.otf
 ls --color=auto
 mkdir fonts
+__vsc_prompt_cmd_original
+clear
+ls --color=auto
